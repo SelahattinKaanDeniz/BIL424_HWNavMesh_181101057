@@ -1,1 +1,2 @@
-# BIL424_HWNavMesh_181101057
+30 Saniyelik Demo Linki:
+https://youtu.be/GIX75MzzUj4
